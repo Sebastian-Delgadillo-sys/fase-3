@@ -32,6 +32,76 @@ Son las condiciones y objetivos marcados en cuanto al usuario.
 
 Entorno de máquinas
 Es el entorno al que se conecta el ordenador, por ejemplo, un ordenador portátil en le dormitorio de un estudiante universitario.
+ngeniería del programario: juntamente con la ergonomía, es una área matriz de la IPO como disciplina. Como la ingeniería del programario se basa en metodologías y principios para desarrollar programario de calidad, resultaba inevitable que entre los requisitos de calidad requeridos se incluyera la facilidad de uso y la usabilidad, principalmente con la aparición de las interfícies gràficas del usuario.
+Inteligencia artificial: se basa en diseñar sistemas que simulen aspectos del comportamiento humano inteligente.
+Ejemplos de uso en IPO serían el diseño de tutores y de sistemas expertos en interfícies inteligentes, el diseño de interfícies en lenguaje natural, mediante la voz (asistentes de voz como Siri o Alexa), el diseño de agentes inteligentes para simplificar la realización de tareas frecuentes.
+
+Psicología (social, organizativa...): ciencia que estudia el comportamiento y los estados de la conciencia de la persona humana, considerada individualmente o como miembro de un grupo.
+La Psicología cognitiva: trata de comprender el comportamiento humano y los procesos mentales que comporta.
+La Psicología social: trata de estudiar el origen y las causas del comportamiento humano en un contexto social.
+La contribución de la psicología en la IPO se basa en los conocimientos y teorías sobre el comportamiento de las personas y la forma cómo procesan la información, las metodologías y herramientas para evaluar el grado de satisfacción de las personas con el diseño de la interfície.
+
+De todas las vertientes de la psicología, la psicología cognitiva es, sin duda, la que ha tenido más presencia y impacto en el desarrollo de la IPO, en concreto el modelo conocido como el procesamiento humano de la información.
+
+Documentación: hay diversos campos dentro de la ciéncia de la documentación involucrados en la IPO: La recuperación de la información trata sobre la manera de mejorar los algoritmos y las interfícies que usan los sistemas de búsqueda para ofrecer de esta manera resultados de búsqueda más satisfactorios al usuario. La arquitectura de la información se encarga de la organización, la estructuración y la clasificación de contenidos en entornos digitales (sitios web, intranets, CD interactivos, etc.) con la finalidad de que los usuarios de este contenido encuentren y manejen la información de manera fácil, eficaz y eficiente.
+Ciencia cognitiva
+Ergonomía: estudio de la relación interactiva entre las personas, los artefactos y los entornos de trabajo, con una especial atención a los factores humanos psicológicos, sociales y físicos que condicionan esta interacción. Su contribución a IPO es muy relevante ya que la IPO se nutre principalmente del conocimiento que genera la comunidad profesional y científica de la ergonomía (estudios antropométricos, ergonomía cognitiva, etc.), y adapta ese conocimiento a las características de las tecnologías emergentes (informática). Actualmente no es de estrañar que haya muchos contextos donde ergonomía y IPO se utilicen como sinónimos.
+Ingeniería
+Diseño
+Antropología
+Sociología: ciencia que estudia las costumbres y tradiciones de los pueblos (más concretamente, la etnografía).
+Las grandes compañías reclutan antropólogos para comprender mejor sus clientes y así diseñar productos que reflejen mejor las tendencias culturales.
+
+Filosofía
+Lingüística: estudio científico de las lenguas desde los diferentes niveles que tienen: foneticofonológico, morfosintàctico, léxico y semántico.
+En el campo de la IPO la lingüística ha tenido un papel muy vinculado a la inteligéncia artificial ya que ha servido de base para desarrollar sistemas de procesamiento del lenguaje natural (PNL). También tiene un papel muy importante sobre la manera como se han de tratar los textos que componen las interfícies para que el usuario entienda e interprete correctamente cada uno de los elementos, y también para analizar y entender el usuario mediante el uso del lenguaje en entornos nuevos de la comunicación como por ejemplo Internet
+
+Diseño gráfico: juntamente con el diseño, son actividades orientadas a conseguir una série de objetivos útiles y visualmente agradables.
+En el caso de la IPO, hasta que la tecnología no evoluciona suficiente (por lo que hace a la resolución y el color de las pantallas de ordenador en concreto), el diseño, y el diseño gráfico específicamente, no empieza a tener un papel significativo en el diseño de las interfícies de usuario.
+
+Podemos distinguir algunas características propias del software, como son:
+
+Usabilidad
+Utilidad
+Accesibilidad
+Todas estas referentes a la experiencia con la interacción de un sistema informático.
+
+Factores de cambio
+Tradicionalmente, el uso de ordenadores ha sido modelado como una pareja persona-computadora en al que los dos están conectados por estrechos canales explícitos de comunicación, como las terminales basadas en texto. Se ha hecho mucho trabajo para hacer que esta interacción refleje la naturaleza multidimensional de la comunicación cotidiana. Debido a estas cuestiones potenciales, la interacción persona-computadora ha cambiado la concentración en la interfaz para responder las observaciones, tal y como articuló D. Engelbart: “Si la facilidad de uso fuese el único criterio válido, la gente se quedaría con los triciclos y nunca hubiera probado las bicicletas”.23​
+
+La intención con la que los humanos interactuamos con los ordenadores continúa evolucionando rápidamente. La interacción persona-computadora se ve afectada por el desarrollo de la computación. Estas fuerzas incluyen:
+
+Decrecimiento del coste del hardware, lo que lleva a mayor memoria y a sistemas más rápidos.
+Miniaturización del hardware, provocando portabilidad.
+Reducción del requerimiento de energía, aumentando la portabilidad.
+Nuevas tecnologías de pantalla, permitiendo nuevas formas de empaquetado para los distintos aparatos.
+Hardware especializados, lo que lleva a nuevas funcione.
+Desarrollo de las redes de comunicación.
+Aumento de la extensión del uso de ordenadores, especialmente por personas que están fuera de la profesión de informática.
+Mayor innovación en técnicas de entrada de información (por ejemplo, voces, gestos, pen drive…) combinados con una reducción de costes, la que lleva a una rápida computerización de gente que en un principio quedaba fuera de la revolución informática.
+Intereses sociales más amplios, lo que lleva a una mejora del acceso a los ordenadores para grupos desfavorecidos.
+Desde 2010, se espera que el futuro de la interacción persona-computadora incluya las siguientes características24​:
+
+Computación ubicua y comunicación. Se espera que los ordenadores se comuniquen a través de redes locales de alta velocidad, redes internacionales y, probablemente, vía infrarrojos, ultrasonido, celular y otras tecnologías. Los servicios computacionales y de datos serán accesibles para muchas, si no la mayoría de localizaciones a las que viajen los usuarios.
+Sistemas de alta funcionalidad. Los sistemas pueden tener una gran número de funciones asociadas a ellos. También hay muchos sistemas sobre los que la mayoría de usuarios, técnicos o no técnicos, no tienen tiempo de aprender (por ejemplo, a través de extensos manuales).
+Gráficos de disponibilidad masiva. Las capacidades gráficas de los ordenadores como el procesamiento de imágenes, las transformaciones gráficas, el renderizado y la animación interactiva se están extendiendo mientras los chips, que no son muy caros, están quedando disponibles para su inclusión general en las estaciones de trabajo y los dispositivos móviles.
+Mixed media. Los sistemas comerciales pueden manejar imágenes, voz, sonidos, vídeo, textos y datos formateados. Estos son enlaces de comunicación intercambiables entre los usuarios. Los distintos campos de consumo de electrónica (por ejemplo sets de estéreo, VCR, televisiones…) y los ordenadores, en parte, fundiéndose y se espera que los campos de la informática y al impresión se crucen totalmente.
+Interacción con un alto ancho de banda. Se espera que el índice de interacción entre los humanos y las máquinas aumente considerablemente debido a cambios en la velocidad, los gráficos informáticos, los nuevos medios y los dispositivos de entrada y salida. Esto puede llevar a diferencias cualitativas entre distintas interfaces, como la realidad virtual o el vídeo computacional.
+Pantallas grandes y finas. Las nuevas tecnologías de pantalla están madurando, permitiendo la creación de pantallas muy grandes y finas, ligeras y que utilizan poca energía. Esto está teniendo importantes efectos en la portabilidad y, probablemente, permitirá el desarrollo de sistemas de interacción con ordenadores parecidos al papel y que se perciban de forma muy distinta a los ordenadores de sobremesa.
+Utilidades de la información. Se espera que las utilidades públicas de la información (como comprar en línea o los servicios bancarios por internet) y los servicios de industrias especializadas proliferen. El índice de proliferación se puede acelerar con la introducción de interacciones con un alto ancho de banda y con la mejora de la calidad de las interfaces.
+Aplicaciones
+Educación
+En la actualidad, el uso de los recursos TIC es muy necesario en todos los niveles educativos. En este sentido existe un problema, ya que aunque muchos docentes sí se esfuerzan por incorporar estos recursos de forma activa en su profesión, hay otros muchos casos en los que esto no ocurre.Esto se puede deber, bien a que el diseño del modelo educativo de los centros en los que participan no lo contempla (falta de recursos, falta de flexibilidad para aplicar nuevos métodos, falta de reconocimiento a las personas que los aplican...) o bien a que, en muchas ocasiones, los conocimientos de los profesores en este ámbito son muy limitados (esto se puede deber a una resistencia al cambio, rechazo a la innovación o exigencia de dedicación que no están dispuestos a aceptar), llegando, en ocasiones, a ser menores que los que poseen los alumnos.
+
+En este sentido, la tecnología puede ser muy útil para que estos procesos sean mucho más fáciles de realizar y aplicar a la educación gracias a la personalización, la analítica, la movilidad o los enfoques sociales, por ejemplo. No obstante, esto siempre debería ir acompañado de la acción de profesionales docentes, ya que no se debe entender la mejora de la interacción persona-computadora como un sustituto de la acción humana.25​
+
+Discapacidad
+Cuando aparecieron los primeros ordenadores, se empezaron a realizar modificaciones para que estos fueran accesibles y útiles para personas con discapacidad. Sin embargo, esas adaptaciones quedaron obsoletas con el avance de la tecnología debido a la incapacidad de adaptarlas a los nuevos dispositivos informáticos. Desde entonces, se han ido realizando intentos en el campo de la interacción persona-computadora tras observar su potencial en la ayuda a personas discapacitadas, llegando algunas de ellas a ser utilizadas también por el resto de usuarios debido a que también facilitan su uso de los ordenadores. De todos modos, siguen habiendo facilidades, como la traducción simultánea a lengua de signos, que siguen siendo utópicas.
+
+Algunos diseñadores también se han pronunciado sobre este tema poniendo énfasis en la necesidad de crear diseños que sean, de entrada, accesibles para todas las personas para que las nuevas tecnologías no supongan una nueva dificultad en las vidas de personas con discapacidades. Aunque no olvidan que hay determinados usuarios que siempre necesitarán diseños con características especiales para garantizar su accesibilidad. Para esto, los usuarios con necesidades especiales deberían poder participar en el proceso de diseño para que este se adapte lo máximo posible a ellos.
+
+Los distintos órganos de gobierno también se han dado cuenta de estas necesidades y, motivados por la acción de las asociaciones de personas con discapacidad, han impulsado distintas medidas que se han visto, sobre todo, en Estados Unidos y en Europa. Algunos de estos son el TIDE, a nivel europeo, que, aunque no ha cumplido las expectativas en el mercado, ha ayudado a visibilizar a estos usuarios y a crear consciencia sobre sus necesidades
+
 
 Áreas de interfaz
 Las áreas no superpuestas implican procesos que no pertenecen a la interacción persona-computadora. Mientras que, las tareas superpuestas solo se implican a sí mismas en el proceso de su interacción.
