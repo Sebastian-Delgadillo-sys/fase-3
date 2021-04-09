@@ -1,1 +1,70 @@
+introducion Los humanos interactuamos con los ordenadores de muchas maneras; la interfaz entre humanos y ordenadores es crucial para facilitar esta interacción. Las aplicaciones, los buscadores de internet y los ordenadores portátiles hacen uso de las prevalentes interfaces gráficas de usuario actuales.4​ Las interfaces mediante voz del usuario se utilizan para el reconocimiento de voz y sintetizan sistemas. Todo esto permite a los humanos comprometerse con caracteres personificados de una forma que nos podría ser conseguida con otros paradigmas de interfaz
+Objetivos
+La interacción persona-computadora estudia la forma en que los seres humanos hacen o no uso de artefactos, sistemas e infraestructuras computacionales. Debido a esto, gran parte de la investigación en este campo busca mejorar la relación humano-computadora mejorando la usabilidad de las interfaces de los ordenadores.9​
 
+Es por eso que gran parte de la investigación en este campo se centra en:
+
+Métodos para diseñar nuevas interfaces de ordenadores, y así optimizar el diseño de una propiedad que se desee, como por ejemplo la capacidad de aprendizaje o la eficiencia de uso.
+Métodos para implementar las interfaces, por ejemplo, por medio de bibliotecas informáticas.
+Métodos para evaluar y comparar interfaces con respecto a sus propiedades, como por ejemplo su usabilidad.
+Métodos para estudiar el uso de los ordenadores y sus implicaciones socioculturales
+Usuario
+Hay que tener en cuenta que el ser humano tiene una capacidad limitada de procesar información; lo cual es muy importante considerar al hacer el diseño. Nos podemos comunicar a través de cuatro canales de entrada/salida: visión, audición, tacto y movimiento. La información recibida se almacena en la memoria sensorial, la memoria a corto plazo y la memoria a largo plazo. Una vez recibimos la información, esta es procesada a través del razonamiento y de habilidades adquiridas, como por ejemplo el hecho de poder resolver problemas o el detectar errores. A todo este proceso afectará al estado emocional del usuario, dado que influye directamente sobre las capacidades de una persona. Además, un hecho que no se puede pasar por alto es que todos los usuarios tendrán habilidades comunes, pero habrá otras que variarán según la persona.
+
+Computador
+El sistema utilizado puede afectar de diferentes formas al usuario. Los dispositivos de entrada permiten introducir texto, como sería el caso del teclado del computador, el teclado de un teléfono, el habla o bien un escrito a mano; dibujos; selecciones por pantalla, con el ratón por ejemplo. Como dispositivos de salida contaríamos con diversos tipos de pantallas, mayoritariamente aquellas que son de mapas de bits, pantallas de gran tamaño de uso en lugares públicos ... A largo plazo se podría contar también con papel digital. Los sistemas de realidad virtual y de visualización con 3D juegan un rol muy importante en el mundo de la interactividad persona-computador. También serán importantes los dispositivos en contacto con el mundo físico, por ejemplo controles físicos, como sensores de temperatura, movimiento, etc. Por otra parte tendríamos diferentes tipos de impresoras con sus propias características, fuentes y caracteres. Y también escáneres y aparatos de reconocimiento óptico. Con respecto a la memoria, cuentan con la RAM a corto plazo y discos magnéticos y ópticos a largo plazo. Hay que tener en cuenta que tienen una capacidad limitada con relación directa con el formato del documento o del vídeo. Los métodos de acceso a la memoria pueden suponer una ayuda, sin embargo, en ocasiones, también una traba para el usuario. El último rasgo característico es el procesamiento. El computador tendrá un límite de velocidad en el procesamiento, por otra parte afectará a la velocidad de procesamiento al hecho de utilizar una red de trabajo u otra.
+
+Origen del proceso interactivo
+Es importante que haya una buena comunicación entre usuario y computador, por este motivo la interfaz tiene que estar diseñada pensando en las necesidades del usuario. Es de vital importancia este buen entendimiento entre ambas partes dado que sino la interacción no será posible.
+Interfaz persona-computadora
+Artículo principal: Interfaz de usuario
+
+La interfaz persona-computadora se puede describir como el punto de comunicación entre el usuario humano y el ordenador. El flujo de información entre estos se define con el círculo de interacción.
+
+Características visuales
+La interacción visual persona-computadora es, probablemente, el área más extendida en la investigación de la interacción persona-computadora.
+
+Características auditivas
+La interacción auditiva es otro área importante en los sistemas de interacción persona-computadora. Esta área lidia con información adquirida de distintas señales de audio.
+
+Entorno de tareas
+Son las condiciones y objetivos marcados en cuanto al usuario.
+
+Entorno de máquinas
+Es el entorno al que se conecta el ordenador, por ejemplo, un ordenador portátil en le dormitorio de un estudiante universitario.
+
+Áreas de interfaz
+Las áreas no superpuestas implican procesos que no pertenecen a la interacción persona-computadora. Mientras que, las tareas superpuestas solo se implican a sí mismas en el proceso de su interacción.
+
+Flujo de inputs
+El flujo de información que empieza en el entorno de tareas cuando el usuario tiene alguna tarea que requiera utilizar el ordenador.
+
+Outputs
+El flujo de información que se genera en el entorno de máquinas.
+
+Feedback
+Los círculos que la interfaz evalúa y modera y confirma los procesos que pasan desde el usuario hacia la interfaz hasta el ordenador, y al contrario.
+
+Fit
+Es la relación entre le diseño del ordenador, el usuario y la tarea para optimizar las fuentes humanas necesitadas para completar la tarea.
+
+Investigación actual
+Personalización del usuario
+El desarrollo del usuario final estudia cómo los usuarios cotidianos podrían, rutinariamente, adaptar las aplicaciones a sus propias necesidades e inventar nuevas aplicaciones basadas en el entendimiento de sus propias capacidades. Con su conocimiento profundo, los usuarios podrían, cada vez más, ser fuentes importantes de nuevas aplicaciones a la espera de programas genéricos con sistemas expertos pero poco dominio.
+
+Computación incrustada
+La computación está pasando de los ordenadores a cualquier objeto en el que se pueda aplicar. Los sistemas incrustados hacen que el entorno esté vivo con pequeñas computaciones y procesos automatizados, desde utensilios de cocina automatizados hasta luces, bombillas y persianas automáticas. La diferencia que se espera en el futuro en la adición de comunicación en red que permitirá a muchas de estas computaciones incrustadas coordinarse con otras y con el usuario. Las interfaces humanas para estos objetos incrustados será, en muchos casos, distinta a las estaciones de trabajo apropiadas.
+
+Realidad aumentada
+Artículo principal: Realidad aumentada
+
+La realidad aumentada se refiere a la noción de añadir información relevante a nuestra visión del mundo. Existen proyectos muestran estadísticas en tiempo real a usuarios que realizan tareas difíciles, como la manufactura. El trabajo futuro debería incluir un aumento de nuestras interacciones sociales dotándonos de información adicional sobre las personas con las que conversamos.
+
+Computación social
+En los últimos años, ha habido una explosión de investigaciones sobre ciencias sociales que se centrar en interacciones cono la unidad de análisis. Muchas de estas investigaciones se dibujan desde la psicología, la psicología social y la sociología. Por ejemplo, un estudio encontró que la gente espera que un ordenador con nombre de hombre sea más caro que un ordenador con nombre de mujer.17​ Otra encontró que los individuos percibimos nuestras interacciones con ordenadores más positivamente que las interacciones con humanos, a pesar de comportarnos igual ante estas máquinas.18​
+
+Interacción persona.computadora dirigida por el conocimiento
+En las interacciones entre personas y ordenadores, existe, normalmente, un vacío semántico entre lo que personas y ordenadores entienden sobre los comportamientos mutuos. La ontología (informática), como representación formal del dominio específico del conocimiento, puede utilizarse para dirigir este problema, a través de la resolución de ambigüedades semánticas entre las dos partes.19​
+
+La interacción persona-computadora y las emociones
+En la interacción entre personas y ordenadores, las investigaciones han estudiado cómo pueden los ordenadores detectar, procesar y reaccionar a las emociones humanas para desarrollar sistemas de información emocionalmente inteligentes. Los investigadores han sugerido importantes “canales de detección de afecto”.20​ El potencial de detectar emociones humanas de forma automática y digitalizada reside en mejoras de la efectividad de la interacción persona-computadora.21​ La influencia de las emociones en esta interacción ha sido estudiada en campos como la toma de decisiones financieras utilizando ECG y en la organización del compartimiento de conocimiento utilizando seguimiento de ojos y lectores faciales como canales de detección de afecto.22​ En estos campos se ha observado que estos canales tienen potencial para detectar las emociones humanas y que los sistemas informáticos pueden incorporar los datos obtenidos de ellos para mejorar los modelos de decisión
